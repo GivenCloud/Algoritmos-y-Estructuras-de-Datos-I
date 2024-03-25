@@ -1,0 +1,36 @@
+AñadirCarretera Murcia,Cartagena,54,A-30
+ConsultarCarretera Murcia,Almería
+ListarAdyacentes Lorca
+AñadirLugar Murcia,430.571 habitantes
+AñadirLugar Lorca,91.759 habitantes
+AñadirLugar Cartagena,215.186 habitantes
+AL Alicante
+AL Albacete
+ConsultarLugar Murcia
+ConsultarLugar Cartagena
+AñadirLugar Murcia,430.572 habitantes
+ConsultarLugar Murcia
+AñadirCarretera Murcia,Cartagena,54,A-30
+ConsultarCarretera Murcia,Cartagena
+ListarAdyacentes Murcia
+AñadirCarretera Cartagena,Murcia,54,A-30
+AñadirCarretera Murcia,Alicante,83,A-7
+AC Murcia,Albacete,182
+ConsultarCarretera Murcia,Cartagena
+AC Cartagena,Lorca,85
+ListarAdyacentes Murcia
+AñadirCarretera Alicante,Murcia,83,A-7
+AñadirCarretera Murcia,Albacete,150,A-30
+ConsultarCarretera Murcia,Albacete
+ListarAdyacentes Cartagena
+AñadirCarretera Albacete,Murcia,150,A-30
+ConsultarCarretera Murcia,Almería
+ConsultarCarretera Almería,Murcia
+AC Murcia,Cartagena,54
+ConsultarCarretera Murcia,Cartagena
+ListarAdyacentes Cartagena
+ListarAdyacentes Murcia
+ListarAdyacentes Almería
+Inicializar
+AL Murcia
+ListarAdyacentes Murcia
